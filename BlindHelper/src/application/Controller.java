@@ -27,7 +27,7 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import utilities.Utilities;
 import javax.swing.JFileChooser;
-
+//adding some infor 
 
 public class Controller {
 	
